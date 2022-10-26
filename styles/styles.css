@@ -1,0 +1,33 @@
+/* @import url("front css"); */
+h1 {
+    color: red;
+}
+p {
+    color: aqua;
+}
+.title {
+    font-family: Arial, sans serif;
+    font-size: 20px;
+  }
+  .page-title {
+     color: red;
+     font-size: 32px;
+  }
+
+  .button {
+    height: 50px;
+    padding: 0;
+    background: transparent;
+    font-size: 50px;
+    line-height: 20px;
+    color: white;
+  }
+  .button--red {
+    color: red;
+  }
+  .popup__button {
+    margin: 0 10px;
+  }
+  .popup__button--no-margin {
+    margin: 0;
+  }
