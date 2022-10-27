@@ -1,6 +1,7 @@
 /* @import url("front css"); */
 h1 {
     color: red;
+    text-align: center;
 }
 p {
     color: aqua;
@@ -20,7 +21,7 @@ p {
     background: transparent;
     font-size: 50px;
     line-height: 20px;
-    color: white;
+    border-radius: 50%;
   }
   .button--red {
     color: red;
